@@ -34,13 +34,5 @@ const CONFIG = {
     ]
   },
 
-  time: {
-    prefix: "Hari ke-",
-    day: "",
-    hour: " jam",
-    minute: " menit",
-    second: " detik"
-  },
-
   seedText: "I Love You"
 };
