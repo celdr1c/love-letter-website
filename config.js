@@ -24,10 +24,13 @@ const CONFIG = {
     "semoga kita bisa tersenyum dan mengingatnya sebagai salah satu bagian indah dalam hidup kita."
   ],
 
-  paragraph3: [
-    "Terima kasih sudah menjadi bagian dari cerita ini.",
-    "Semoga setiap langkah yang kita jalani membawa banyak kebahagiaan."
-  ]
+paragraph3: [
+  "Mungkin aku tidak bisa menjanjikan semuanya akan selalu mudah,",
+  "tapi aku ingin tetap ada untuk melewati setiap cerita bersamamu.",
+  "Karena dari banyaknya hal yang datang dan pergi dalam hidup ini,",
+  "aku bersyukur pernah menemukan seseorang sepertimu.",
+  "Semoga langkah kecil kita hari ini menjadi awal dari banyak cerita indah lainnya."
+]
   },
 
   seedText: "I Love You"
