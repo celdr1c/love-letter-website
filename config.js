@@ -1,9 +1,9 @@
 const CONFIG = {
   couple: {
-    name1: "Daffa",
-    name2: "Sayang",
-    connector: "dan",
-    together: "bersama"
+    name1: "Leyy",
+    name2: "Jel",
+    connector: "and",
+    together: "forever"
   },
 
   memorialDate: "2024-05-20T00:00:00",
